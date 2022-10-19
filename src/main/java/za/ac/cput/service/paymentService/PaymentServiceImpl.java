@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Service
-public class PaymentServiceImpl {
+public class PaymentServiceImpl implements IPaymentService {
     private final IPaymentRepository repository;
 
 
