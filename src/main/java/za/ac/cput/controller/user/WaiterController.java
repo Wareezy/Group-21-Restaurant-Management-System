@@ -6,7 +6,9 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
+import za.ac.cput.domain.Name;
 import za.ac.cput.domain.Waiter;
+
 import za.ac.cput.factory.NameFactory;
 import za.ac.cput.factory.WaiterFactory;
 import za.ac.cput.service.waiterService.IWaiterService;

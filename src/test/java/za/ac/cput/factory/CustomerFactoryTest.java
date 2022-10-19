@@ -7,6 +7,8 @@ import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestMethodOrder;
 import za.ac.cput.domain.Customer;
+import za.ac.cput.domain.Name;
+
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 class CustomerFactoryTest {

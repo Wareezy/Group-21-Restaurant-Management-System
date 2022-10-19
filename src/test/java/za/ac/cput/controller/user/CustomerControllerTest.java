@@ -10,6 +10,7 @@ import org.springframework.boot.test.web.server.LocalServerPort;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import za.ac.cput.domain.Customer;
+import za.ac.cput.domain.Name;
 import za.ac.cput.factory.CustomerFactory;
 import za.ac.cput.factory.NameFactory;
 
