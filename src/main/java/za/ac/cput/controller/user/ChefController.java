@@ -11,7 +11,8 @@ import za.ac.cput.factory.ChefFactory;
 import za.ac.cput.factory.NameFactory;
 import za.ac.cput.service.chefService.IChefService;
 import za.ac.cput.util.Helper;
-
+import za.ac.cput.domain.Name;
+import za.ac.cput.domain.Chef;
 import java.util.List;
 
 @RestController
