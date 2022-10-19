@@ -9,6 +9,7 @@ import org.springframework.boot.test.web.client.TestRestTemplate;
 import org.springframework.boot.test.web.server.LocalServerPort;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import za.ac.cput.domain.Name;
 import za.ac.cput.domain.Waiter;
 import za.ac.cput.factory.NameFactory;
 import za.ac.cput.factory.WaiterFactory;
